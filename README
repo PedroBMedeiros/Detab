@@ -1,0 +1,10 @@
+Pedro Medeiros (pdemedei)
+
+Special Instructions:
+	In order to run the program, all that is needed is to run file resulting from compilation.
+
+	If no input file is given by using the "< exampleFile.txt" functionality when running the program, the terminal will await typed input from user.
+	Once satisfied with the input, click the enter key to send the input in to the program.
+
+	Assuming an input file was given (using "< InputFile.txt") the program will spit out the output in "stdout".
+
